@@ -1,0 +1,15 @@
+C:\Users\WSR\source\repos\TunNikMethodInClass\bin\Debug\TunNikMethodInClass.exe.config
+C:\Users\WSR\source\repos\TunNikMethodInClass\bin\Debug\TunNikMethodInClass.exe
+C:\Users\WSR\source\repos\TunNikMethodInClass\bin\Debug\TunNikMethodInClass.pdb
+C:\Users\WSR\source\repos\TunNikMethodInClass\obj\Debug\TunNikMethodInClass.csprojAssemblyReference.cache
+C:\Users\WSR\source\repos\TunNikMethodInClass\obj\Debug\MainWindow.g.cs
+C:\Users\WSR\source\repos\TunNikMethodInClass\obj\Debug\App.g.cs
+C:\Users\WSR\source\repos\TunNikMethodInClass\obj\Debug\TunNikMethodInClass_MarkupCompile.cache
+C:\Users\WSR\source\repos\TunNikMethodInClass\obj\Debug\TunNikMethodInClass_MarkupCompile.lref
+C:\Users\WSR\source\repos\TunNikMethodInClass\obj\Debug\MainWindow.baml
+C:\Users\WSR\source\repos\TunNikMethodInClass\obj\Debug\TunNikMethodInClass.g.resources
+C:\Users\WSR\source\repos\TunNikMethodInClass\obj\Debug\TunNikMethodInClass.Properties.Resources.resources
+C:\Users\WSR\source\repos\TunNikMethodInClass\obj\Debug\TunNikMethodInClass.csproj.GenerateResource.cache
+C:\Users\WSR\source\repos\TunNikMethodInClass\obj\Debug\TunNikMethodInClass.csproj.CoreCompileInputs.cache
+C:\Users\WSR\source\repos\TunNikMethodInClass\obj\Debug\TunNikMethodInClass.exe
+C:\Users\WSR\source\repos\TunNikMethodInClass\obj\Debug\TunNikMethodInClass.pdb
